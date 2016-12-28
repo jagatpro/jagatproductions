@@ -1,0 +1,9 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans:400,700&subset=latin,vietnamese,latin-ext);
+
+#menu-3 .navbar-toggler {
+  color: #000;
+}
+#menu-3 .navbar-brand {
+  font-size: 36px;
+  font-family: 'Alegreya Sans', sans-serif;
+}
