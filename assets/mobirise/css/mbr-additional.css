@@ -411,6 +411,26 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
+#header3-m .mbr-section-title,
+#header3-m .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-o .mbr-section-title,
+#header3-o .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-q .mbr-section-title,
+#header3-q .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-s .mbr-section-title,
+#header3-s .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-u .mbr-section-title,
+#header3-u .mbr-section-subtitle {
+  text-align: center;
+}
 #header3-d .mbr-section-title,
 #header3-d .mbr-section-subtitle {
   text-align: center;
@@ -435,24 +455,4 @@ h6,
 #social-buttons3-13 .mbr-section-title,
 #social-buttons3-13 .btn-social {
   color: #fff;
-}
-#header3-m .mbr-section-title,
-#header3-m .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-o .mbr-section-title,
-#header3-o .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-q .mbr-section-title,
-#header3-q .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-s .mbr-section-title,
-#header3-s .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-u .mbr-section-title,
-#header3-u .mbr-section-subtitle {
-  text-align: center;
 }
