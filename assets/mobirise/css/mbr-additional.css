@@ -431,12 +431,24 @@ h6,
 #header3-u .mbr-section-subtitle {
   text-align: center;
 }
+#header4-19 .mbr-section-title {
+  text-align: right;
+}
+#header4-19 .mbr-section-lead {
+  text-align: right;
+}
+#header1-h .mbr-section-title {
+  text-align: left;
+}
+#header1-h .mbr-section-lead {
+  text-align: left;
+}
 #header3-d .mbr-section-title,
 #header3-d .mbr-section-subtitle {
   text-align: center;
 }
 #header3-d H3 {
-  font-size: 48px;
+  font-size: 36px;
 }
 #header3-16 .mbr-section-title,
 #header3-16 .mbr-section-subtitle {
@@ -450,7 +462,7 @@ h6,
   text-align: center;
 }
 #header3-12 H3 {
-  font-size: 72px;
+  font-size: 36px;
 }
 #social-buttons3-13 .mbr-section-title,
 #social-buttons3-13 .btn-social {

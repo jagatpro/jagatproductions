@@ -25,7 +25,7 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.10.4",
-    "uniqCompNum": 44,
+    "uniqCompNum": 46,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -764,14 +764,15 @@
       },
       "components": [
         {
+          "_inherit": "header1",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-0",
+          "_name": "header4",
+          "_anchor": "header4-19",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#a07e49",
@@ -779,18 +780,26 @@
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
-            "overlay": false,
+            "bgVideoRadio": true,
+            "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "center",
+            "contentAlign": "right",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "title": "HALO, JAGATERS!",
-          "text": "Selamat datang di website Jagat Pariwara Media Citra.<br>Kami, ''Jagaters'', senang bisa membantu Anda.",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+          "text": "Selamat datang di website Jagat Pariwara Media Citra.<br>Kami, ''Jagaters'', senang bisa membantu Anda.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header3-d\" data-toolbar=\"-mbrBtnMove\">LAYANAN KAMI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-16\" data-toolbar=\"-mbrBtnMove\">PORTOFOLIO</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">HUBUNGI KAMI</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right"
+            },
+            ".mbr-section-lead": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_tags": [
@@ -819,7 +828,38 @@
           },
           "title": "JAGATERS!<br>",
           "text": "Kami adalah Jagaters! Kumpulan orang-orang kreatif di bidang multimedia. Sejak 2010, kami fokus pada jasa produksi konten dan siaran langsung. &nbsp;",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-18",
+          "media": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/image1.jpg",
+              "width": 1400
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Mkll6W-M1j4",
+              "autoplay": false,
+              "loop": "on",
+              "active": true
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "text": "&nbsp;"
         },
         {
           "_styles": {
@@ -827,7 +867,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "48px"
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -874,7 +914,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1479909031872-133432b2d7c1-600x400-18.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1261-600x400-25.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -890,7 +930,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-2851-600x337-25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-5728-123-600x400-45.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1014,10 +1054,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2016-12-29-14h35m24s548-600x345-15.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "Bank Indonesia",
@@ -1058,7 +1102,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-5728-600x400-42.jpg",
+              "src": "@PROJECT_PATH@/assets/images/duluxok-600x337-14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1143,7 +1187,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2016-12-28-20h15m07s036-600x345-65.png",
+              "src": "@PROJECT_PATH@/assets/images/bangkapemkab-600x400-73.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1260,7 +1304,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-8384-600x400-98.jpg",
+              "src": "@PROJECT_PATH@/assets/images/djarumok-600x337-60.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1292,10 +1336,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ext-600x337-37.png",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "TRG Investama",
@@ -1357,7 +1405,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2016-12-28-20h25m07s098-600x340-48.png",
+              "src": "@PROJECT_PATH@/assets/images/keishaok-600x400-27.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1470,10 +1518,14 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/cummuterlineok-copy-600x400-73.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "DMC - TEO",
@@ -1571,7 +1623,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/vlcsnap-2016-12-28-20h40m27s559-600x345-91.png",
+              "src": "@PROJECT_PATH@/assets/images/bostonpriceok-600x400-70.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1587,7 +1639,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1465667226977-fadb849f7fa3-600x400-80.jpg",
+              "src": "@PROJECT_PATH@/assets/images/ayataayatok-600x400-61.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1664,7 +1716,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "72px"
+              "font-size": "36px"
             }
           },
           "_tags": [
