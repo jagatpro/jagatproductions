@@ -710,11 +710,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1299-2000x1333-13.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
@@ -915,7 +915,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1300-2000x1333-2.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1496,19 +1496,23 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "KEYSHA &amp; DAVE",
+          "title1": "Keysha &amp; Dave",
           "subtitle1": "2016",
           "caption1": "Live streaming akad nikah dan pernikahan Keysha (Jakarta) &amp; Dave (London)",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+              "src": "@PROJECT_PATH@/assets/images/anjungan-ok-600x400-43.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title2": "ANJUNGAN SUMUT - TMII",
+          "title2": "Anjungan &nbsp;- TMII",
           "subtitle2": "2016",
           "caption2": "Live streaming Pentas Kebudayaan Sumatera Utara",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1524,7 +1528,7 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "WARDAH COSMETICS",
+          "title3": "Wardah Cosmetic",
           "subtitle3": "2016",
           "caption3": "Live streaming Knowledge Sharing bersama CEO Wardah Cosmetics",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1627,10 +1631,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kartanu-ok-600x400-19.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "PB Nahdlatul Ulama",
@@ -1639,10 +1647,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "src": "@PROJECT_PATH@/assets/images/chattycash-ok-600x400-33.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "Bostonprice Asia",
@@ -1752,7 +1764,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1463320726281-696a485928c7-600x400-39.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akal-sehat-dahlan-iskan-ok-600x400-8.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1888,7 +1900,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-uploads-1410882713416f40ea76b-51461029-600x400-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tugu-jogja-ok-600x400-59.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1936,11 +1948,11 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1299-2000x1333-13.jpg",
             "bgColor": "#2e2e2e",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "overlay": true,
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
