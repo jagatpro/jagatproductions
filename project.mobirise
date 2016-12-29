@@ -103,7 +103,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "72px"
+              "font-size": "48px"
             }
           },
           "_tags": [
@@ -243,7 +243,7 @@
               "text-align": "center"
             },
             "H3": {
-              "font-size": "72px"
+              "font-size": "36px"
             }
           },
           "_tags": [
