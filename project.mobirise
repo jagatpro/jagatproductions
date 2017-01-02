@@ -1881,7 +1881,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1482649671545-bc53dcf1ad7c-600x400-65.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bmw-ok-600x400-15.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1891,9 +1891,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "ASABRI",
-          "subtitle4": "2014-2015",
-          "caption4": "Produksi PSA udio visual",
+          "title4": "PT. BMW Indonesia",
+          "subtitle4": "2015",
+          "caption4": "Launching Mini Cooper City Man",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
