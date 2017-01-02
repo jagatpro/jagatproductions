@@ -769,6 +769,14 @@
             "Theme"
           ],
           "_name": "header4",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "right"
+            },
+            ".mbr-section-lead": {
+              "text-align": "right"
+            }
+          },
           "_anchor": "header4-19",
           "_params": {
             "parallax": true,
@@ -793,15 +801,7 @@
           },
           "title": "HALO, JAGATERS!",
           "text": "Selamat datang di website Jagat Pariwara Media Citra.<br>Kami, ''Jagaters'', senang bisa membantu Anda.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header3-d\" data-toolbar=\"-mbrBtnMove\">LAYANAN KAMI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-16\" data-toolbar=\"-mbrBtnMove\">KARYA KAMI</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">HUBUNGI KAMI</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "right"
-            },
-            ".mbr-section-lead": {
-              "text-align": "right"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#header3-d\" data-toolbar=\"-mbrBtnMove\">LAYANAN KAMI</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#header3-16\" data-toolbar=\"-mbrBtnMove\">KARYA KAMI</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">HUBUNGI KAMI</a>"
         },
         {
           "_tags": [
@@ -910,6 +910,14 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "left"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header1-h",
           "_params": {
             "parallax": true,
@@ -932,15 +940,7 @@
           },
           "title": "JAGATERS!<br>",
           "text": "Kami adalah Jagaters! Kumpulan orang-orang kreatif di bidang multimedia. Sejak 2010, kami fokus pada jasa produksi konten dan siaran langsung. &nbsp;",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "text-align": "left"
-            },
-            ".mbr-section-lead": {
-              "text-align": "left"
-            }
-          }
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
           "_styles": {
