@@ -20,13 +20,15 @@
         "isScrollToTopButton": false
       }
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-jagat-alpha-3-128x74-65.png",
     "noImageResize": "",
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.10.4",
     "uniqCompNum": 50,
-    "versionPublish": "3.10.4"
+    "versionPublish": "3.10.4",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "page1.html": {
