@@ -26,7 +26,7 @@
     "cookiesAlert": "",
     "versionFirst": "3.10.4",
     "uniqCompNum": 50,
-    "versionPublish": "3.10.4",
+    "versionPublish": "3.10.5",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -286,7 +286,7 @@
           },
           "title1": "Persewaan",
           "subtitle1": "Perangkat Multimedia",
-          "caption1": "Kami menyediakan peralatan produksi multimedia lengkap untuk dokumentasi berbagai event..",
+          "caption1": "Kami menyediakan peralatan produksi multimedia lengkap untuk dokumentasi berbagai event.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -318,7 +318,7 @@
           },
           "title3": "Live Streaming",
           "subtitle3": "Dengan Bandwidth on Demand",
-          "caption3": "Kami me;ayani jasa live streaming.berikut penyediaan bandwidth on demand di seluruh Indonesia",
+          "caption3": "Kami me;ayani jasa live streaming., berikut penyediaan bandwidth on demand di seluruh Indonesia",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -543,7 +543,7 @@
           },
           "title1": "Dynamo",
           "subtitle1": "2016",
-          "caption1": "Entrepreneur award Bank BRI",
+          "caption1": "Entrepreneur Award Bank BRI",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -575,7 +575,7 @@
           },
           "title3": "Pegadaian",
           "subtitle3": "2016",
-          "caption3": "Seminar investasi emas 2016",
+          "caption3": "Seminar Investasi Emas 2016",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1021,7 +1021,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Anaf Afifi &amp; Thowaf&nbsp;",
+          "title2": "Anab Afifi &amp; Thowaf&nbsp;",
           "subtitle2": "2016",
           "caption2": "Penerbitan Buku Ayat-Ayat yang Disembelih melalui institusi Jagat Publishing.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1353,7 +1353,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>Graha Pena,&nbsp;<br>Jl Kebayoran Lama No 12<br>Jakarta, 12210<br><br><br>\n<strong>Contacts</strong><br><strong><br></strong>Email: intartosaja@gmail.com &nbsp;&nbsp;<br>\nPhone: +62087889063697, +6281289164894<br>",
+          "text1": "<strong>Address</strong><br>Graha Pena,&nbsp;<br>Jl Kebayoran Lama No 12<br>Jakarta, 12210<br><br><br>\n<strong>Contacts</strong><br><strong><br></strong>Email: intartosaja@gmail.com &nbsp;&nbsp;<br>\nPhone: +6287877913319<br>",
           "text2": "",
           "form": {
             "title": "MESSAGE",
