@@ -17,7 +17,8 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false
+        "isScrollToTopButton": false,
+        "isRtl": false
       }
     },
     "favicon": "@PROJECT_PATH@/assets/images/logo-jagat-alpha-3-128x74-65.png",
@@ -26,7 +27,7 @@
     "cookiesAlert": "",
     "versionFirst": "3.10.4",
     "uniqCompNum": 50,
-    "versionPublish": "3.10.5",
+    "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -286,7 +287,7 @@
           },
           "title1": "Persewaan",
           "subtitle1": "Perangkat Multimedia",
-          "caption1": "Kami menyediakan peralatan produksi multimedia lengkap untuk dokumentasi berbagai event.",
+          "caption1": "Kami menyediakan peralatan produksi multimedia lengkap untuk dokumentasi berbagai event..",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media2": {
             "image": {
@@ -318,7 +319,7 @@
           },
           "title3": "Live Streaming",
           "subtitle3": "Dengan Bandwidth on Demand",
-          "caption3": "Kami me;ayani jasa live streaming., berikut penyediaan bandwidth on demand di seluruh Indonesia",
+          "caption3": "Kami me;ayani jasa live streaming.berikut penyediaan bandwidth on demand di seluruh Indonesia",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -543,7 +544,7 @@
           },
           "title1": "Dynamo",
           "subtitle1": "2016",
-          "caption1": "Entrepreneur Award Bank BRI",
+          "caption1": "Entrepreneur award Bank BRI",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -575,7 +576,7 @@
           },
           "title3": "Pegadaian",
           "subtitle3": "2016",
-          "caption3": "Seminar Investasi Emas 2016",
+          "caption3": "Seminar investasi emas 2016",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
@@ -1021,7 +1022,7 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Anab Afifi &amp; Thowaf&nbsp;",
+          "title2": "Anaf Afifi &amp; Thowaf&nbsp;",
           "subtitle2": "2016",
           "caption2": "Penerbitan Buku Ayat-Ayat yang Disembelih melalui institusi Jagat Publishing.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1172,7 +1173,7 @@
           },
           "title4": "PT. BMW Indonesia",
           "subtitle4": "2015",
-          "caption4": "Launching Mini Cooper City Man",
+          "caption4": "Launching Mini Cooper Country Man",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -1220,7 +1221,7 @@
             "showMeta": true
           },
           "title": "PROYEK 2017",
-          "meta": "\u001bBeberapa proyek baru tahun 2017"
+          "meta": "\u001bBeberapa proyek kami di tahun 2017"
         },
         {
           "_tags": [
@@ -1252,19 +1253,23 @@
           },
           "media1": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title1": "Lavender Publishing",
+          "title1": "Chevrolet LiveStreaming IIMS 2017",
           "subtitle1": "2017",
-          "caption1": "Penggalangan donasi melalui penerbitan buku bekerjasama dengan Lavender Foundation dan Bostonprice Asia.",
+          "caption1": "Livestream dari booth Chevrolet yang diiselenggarakan di Indonesian International Motor Show (IIMS), Ji-Expo Kemayoran Jakarta Pusat",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1444086798547-11000e647498-600x400-31.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-1-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1274,13 +1279,13 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "Fortune Academy",
+          "title2": "Writing In Actions (Webinar Series)",
           "subtitle2": "2017",
-          "caption2": "Pembangunan sistem pengajaran jarak jauh interaktif menggunakan platform webinar untuk Fortune Academy,&nbsp;",
+          "caption2": "Webinar Series Bersama Anab Afifi yang diselnggarakan dari studio Tanjung Barat-Jakarta Selatan&nbsp;",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gsk-hub-2-1200x801-600x400-97.jpg",
+              "src": "@PROJECT_PATH@/assets/images/gsk-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1290,13 +1295,13 @@
               "linkInNewWindow": false
             }
           },
-          "title3": "Studio Webinar&nbsp;",
+          "title3": "GSK Webinar Series 2017&nbsp;",
           "subtitle3": "2017",
-          "caption3": "Mengoperasikan 2 Studio Webinar di Wisma Standard Chartered untuk live seminar sepanjang 2017.",
+          "caption3": "Handling operasional stuidio webinar yang diadakan oleh perusahaan multinasional GSK (GlaxoSmithKline)&nbsp;",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/tugu-jogja-ok-600x400-59.jpg",
+              "src": "@PROJECT_PATH@/assets/images/radiobox-600x400.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1306,9 +1311,9 @@
               "linkInNewWindow": false
             }
           },
-          "title4": "Kantor Jogja",
+          "title4": "Net. Radio Box",
           "subtitle4": "2017",
-          "caption4": "Mengoperasikan kantor layanan di Jogja bekerjasama dengan 2Q Creative Media.",
+          "caption4": "LiveStreaming Radio Box Net. TV",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
@@ -1353,7 +1358,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong>Address</strong><br>Graha Pena,&nbsp;<br>Jl Kebayoran Lama No 12<br>Jakarta, 12210<br><br><br>\n<strong>Contacts</strong><br><strong><br></strong>Email: intartosaja@gmail.com &nbsp;&nbsp;<br>\nPhone: +6287877913319<br>",
+          "text1": "<strong>Address</strong><br>Graha Pena,&nbsp;<br>Jl Kebayoran Lama No 12<br>Jakarta, 12210<br><br><br>\n<strong>Contacts</strong><br><strong><br></strong>Email: intartosaja@gmail.com &nbsp;&nbsp;<br>\nPhone: +62087889063697, +6281289164894<br>",
           "text2": "",
           "form": {
             "title": "MESSAGE",
