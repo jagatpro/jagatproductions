@@ -1571,6 +1571,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_params": {
@@ -1579,7 +1582,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "title": "Portofolio 2018",
+          "title": "PORTOFOLIO 2018",
           "meta": "Karya-Karya Kami 2018",
           "_tags": [
             "Theme"
