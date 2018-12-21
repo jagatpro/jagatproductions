@@ -409,7 +409,7 @@ h6,
   color: #c0a375;
 }
 .scrollToTop_wraper {
-  opacity: 0 !important;
+  display: none;
 }
 #header4-19 .mbr-section-title {
   text-align: right;
@@ -443,6 +443,10 @@ h6,
 }
 #header3-12 H3 {
   font-size: 36px;
+}
+#header3-1i .mbr-section-title,
+#header3-1i .mbr-section-subtitle {
+  text-align: center;
 }
 #social-buttons3-13 .mbr-section-title,
 #social-buttons3-13 .btn-social {
