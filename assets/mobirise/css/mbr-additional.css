@@ -487,6 +487,20 @@ section.form .container {
 #header3-12 H3 {
   font-size: 36px;
 }
+#header3-1e .mbr-section-title,
+#header3-1e .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1e H3 {
+  font-size: 36px;
+}
+#header3-1h .mbr-section-title,
+#header3-1h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1h H3 {
+  font-size: 36px;
+}
 #social-buttons3-13 .mbr-section-title,
 #social-buttons3-13 .btn-social {
   color: #fff;
